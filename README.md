@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!
 
 <!--
 **dpshikha476/dpshikha476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is the place where I open source stuf.😄
+🔭 I’m a sophomore at National Institute of Technology, Jamshedpur.
+🌱 Passionate about web and app development.
+😄 I'm comfortable with HTML, CSS, Javascrpit, MySql.
+🌱 I’m currently learning app development.
