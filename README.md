@@ -5,7 +5,7 @@ This is the place where I open source stuf.😄
 
 -   Sophomore at National Institute of Technology, Jamshedpur.
 -   Passionate about web and app development.
--   Competetive Coder.
+-   Competitive Coder.
 
 
 
