@@ -3,7 +3,7 @@
 
 This is the place where I open source stuff.😄
 
--   Sophomore at National Institute of Technology, Jamshedpur.
+-   Pre-final year undergrad at National Institute of Technology, Jamshedpur.
 -   Passionate about web and app development.
 -   Competitive Coder.
 
