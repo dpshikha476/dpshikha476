@@ -8,7 +8,7 @@
 -   Passionate about web and app development.
 -   Competitive Coder.
 
-<p align="left"> &nbsp;<img src="https://komarev.com/ghpvc/?username=dpshikha476" alt="dpshikha476" /> </p>
+<!-- <p align="left"> &nbsp;<img src="https://komarev.com/ghpvc/?username=dpshikha476" alt="dpshikha476" /> </p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpshikha476&show_icons=true&layout=compact&title_color=fff&icon_color=ffff66&text_color=cceeff&bg_color=000" alt="dpshikha476" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpshikha476&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=ffff66&text_color=cceeff&bg_color=000" alt="dpshikha476" /></p>
