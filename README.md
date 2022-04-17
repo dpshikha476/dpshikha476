@@ -11,7 +11,7 @@
 <!-- <p align="left"> &nbsp;<img src="https://komarev.com/ghpvc/?username=dpshikha476" alt="dpshikha476" /> </p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpshikha476&show_icons=true&layout=compact&title_color=fff&icon_color=ffff66&text_color=cceeff&bg_color=000" alt="dpshikha476" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpshikha476&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=ffff66&text_color=cceeff&bg_color=000" alt="dpshikha476" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpshikha476&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=ffff66&text_color=cceeff&bg_color=000" alt="dpshikha476" /></p>
 
 <hr>
 
@@ -39,6 +39,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deep-shikha-4a7977192/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-shikha-4a7977192" height="30" width="40" /></a> <a href="https://www.hackerrank.com/shikha8835" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shikha8835" height="30" width="40" /></a> <a href="https://www.hackerearth.com/@dp_shikha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dp_shikha" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
